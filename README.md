@@ -24,18 +24,20 @@
 </div>
 <h3 align="left">📫 How to reach me:</h3>
 <div align="left">
+<h3>📫 How to reach me:</h3>
 <a href="https://linkedin.com/in/adityasood11">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn logo" />
 </a>
 <a href="https://leetcode.com/adityasood11">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="40" alt="LeetCode logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/3/3a/LeetCode_logo_black.png" height="40" alt="LeetCode logo" />
 </a>
 <a href="https://stackoverflow.com/users/9594505/aditya-sood">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" height="40" alt="Stack Overflow logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" height="40" alt="Stack Overflow logo" />
 </a>
 <a href="https://medium.com/@adityasood_97820">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/medium/medium-original.svg" height="40" alt="Medium logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Medium_logo.svg" height="40" alt="Medium logo" />
 </a>
 </div>
+
  
  
