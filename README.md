@@ -1,5 +1,5 @@
 <h3 align="left">👩‍💻 About Me</h3>
-<p align="left">I'm Aditya .<br></p>
+<p align="left">I am currently working as a Senior Technical Consultant with Ernst & Young in the Performance Improvement practice. With over five years of experience in technical product development, I have honed my skills in building, designing, and optimizing innovative products that effectively meet market demands. I excel at collaborating with cross-functional teams to deliver solutions that drive business growth, and I have a proven track record of completing high-impact projects on time for a diverse range of clients.</p>
 <h3 align="left">🛠 Language and tools</h3>
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
