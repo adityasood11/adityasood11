@@ -14,8 +14,6 @@
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="aws logo" />
-<img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="google cloud logo" />
@@ -25,14 +23,19 @@
 <img src="https://streak-stats.demolab.com?user=adityasood11&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
 <h3 align="left">📫 How to reach me:</h3>
-<p align="left">
-
-- [LinkedIn](https://linkedin.com/in/adityasood11) ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)
-
-- [LeetCode](https://leetcode.com/adityasood11) ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)
-
-- [Stack Overflow](https://stackoverflow.com/users/9594505/aditya-sood) ![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack%20Overflow&logoColor=white)
-
-- [Medium](https://medium.com/@adityasood_97820) ![Medium](https://img.shields.io/badge/-Medium-00AB6C?style=flat-square&logo=Medium&logoColor=white)
-</p>
+<div align="left">
+<a href="https://linkedin.com/in/adityasood11">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn logo" />
+</a>
+<a href="https://leetcode.com/adityasood11">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="40" alt="LeetCode logo" />
+</a>
+<a href="https://stackoverflow.com/users/9594505/aditya-sood">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" height="40" alt="Stack Overflow logo" />
+</a>
+<a href="https://medium.com/@adityasood_97820">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/medium/medium-original.svg" height="40" alt="Medium logo" />
+</a>
+</div>
+ 
  
