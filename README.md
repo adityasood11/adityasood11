@@ -37,6 +37,9 @@
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="Leetcode" title="Leetcode">
 </a>
 </h3>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=adityasood11&icon=5&color=0" alt="Visitor Count"/>
+</a>
 
  
  
