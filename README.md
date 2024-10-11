@@ -23,21 +23,20 @@
 <img src="https://streak-stats.demolab.com?user=adityasood11&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
 <h3 align="left">📫 How to reach me:</h3>
-<div align="left">
-<h3>📫 How to reach me:</h3>
-<a href="https://linkedin.com/in/adityasood11">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn logo" />
+<h3>
+<a href="https://www.linkedin.com/in/adityasood11/" target="_blank"> 
+  <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" title="LinkedIn">
+</a> &nbsp;
+<a href="https://stackoverflow.com/users/7654190/adityasood11" target="_blank">
+  <img src="https://img.icons8.com/color/48/stackoverflow.png" alt="stackoverflow" title="stackoverflow">
+</a>&nbsp;
+<a href="https://medium.com/@adityasood_97820" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/medium-logo.png" alt="Medium" title="Medium">
+</a>&nbsp;
+<a href="https://leetcode.com/u/adityasood11/" target="_blank">
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="Leetcode" title="Leetcode">
 </a>
-<a href="https://leetcode.com/adityasood11">
-  <img src="https://img.icons8.com/color/48/000000/leetcode.png" height="40" alt="LeetCode logo" />
-</a>
-<a href="https://stackoverflow.com/users/9594505/aditya-sood">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" height="40" alt="Stack Overflow logo" />
-</a>
-<a href="https://medium.com/@adityasood_97820">
-  <img src="https://img.icons8.com/color/48/000000/medium.png" height="40" alt="Medium logo" />
-</a>
-</div>
+</h3>
 
  
  
